@@ -76,45 +76,6 @@
       margin-bottom: 10px;
     }
 
-    #info .coordinates {
-      display: flex;
-      gap: 15px;
-    }
-
-    #info .coord {
-      font-family: 'Roboto Mono', monospace;
-      color: rgba(136, 204, 255, 0.9);
-      font-size: 11px;
-    }
-
-    #info .status {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      margin-top: 8px;
-    }
-
-    #info .status-dot {
-      width: 8px;
-      height: 8px;
-      background: #00ff88;
-      border-radius: 50%;
-      box-shadow: 0 0 10px #00ff88;
-      animation: pulse 2s ease-in-out infinite;
-    }
-
-    #info .status-text {
-      font-size: 10px;
-      text-transform: uppercase;
-      letter-spacing: 1px;
-      color: rgba(0, 255, 136, 0.9);
-    }
-
-    @keyframes pulse {
-      0%, 100% { opacity: 1; transform: scale(1); }
-      50% { opacity: 0.5; transform: scale(0.9); }
-    }
-
     #controls-hint {
       position: absolute;
       bottom: 20px;
@@ -141,16 +102,6 @@
     <div class="data">November 15, 2025</div>
     <div class="label">Location</div>
     <div class="data">Claremore, Oklahoma</div>
-    <div class="label">Coordinates</div>
-    <div class="coordinates">
-      <span class="coord">36.3126° N</span>
-      <span class="coord">95.6161° W</span>
-    </div>
-    <div class="divider"></div>
-    <div class="status">
-      <div class="status-dot"></div>
-      <span class="status-text">Tracking Active</span>
-    </div>
   </div>
   <div id="controls-hint">
     <span>Drag</span> to rotate · <span>Scroll</span> to zoom · <span>Right-drag</span> to pan
