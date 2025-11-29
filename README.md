@@ -18,7 +18,9 @@ Moving silently across the sky was a formation of glowing, chrome-like spheres a
 
 There was no sound. No blinking lights like you'd see on an aircraft. Just this silent, glowing triangle drifting across the stars.
 
-I watched it for maybe 30 seconds before it disappeared from view. I have no explanation for what I saw that night—but I built this simulation to recreate it as accurately as I could remember.
+I watched it for maybe 30 seconds before it disappeared from view. I have no explanation for what I saw that night.
+
+After telling friends and family about the experience, I realized how hard it was to describe in words alone. So I decided to build this simulation—a way to show people exactly what I witnessed that night, rather than trying to explain it. Now when the topic comes up, I can just share this link and say, "Here, this is what I saw."
 
 ---
 
