@@ -10,6 +10,18 @@ A 3D visualization of an unidentified aerial phenomenon based on a sighting in C
 
 ---
 
+## The Sighting
+
+On the night of November 15th, 2025, around 9:15 PM, I stepped outside in Claremore, Oklahoma to do some casual stargazing. It was a clear night—perfect conditions for observing the sky. As I looked up, something unusual caught my attention.
+
+Moving silently across the sky was a formation of glowing, chrome-like spheres arranged in a triangular pattern. They emitted a soft, bluish-white glow and traveled smoothly from one horizon toward the other. What made it even stranger was that smaller orbs appeared to be orbiting around the central formation, almost like electrons circling a nucleus.
+
+There was no sound. No blinking lights like you'd see on an aircraft. Just this silent, glowing triangle drifting across the stars.
+
+I watched it for maybe 30 seconds before it disappeared from view. I have no explanation for what I saw that night—but I built this simulation to recreate it as accurately as I could remember.
+
+---
+
 ## What You're Looking At
 
 This simulation recreates the observed phenomenon featuring:
