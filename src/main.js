@@ -5,6 +5,7 @@ import { RenderPass } from 'three/addons/postprocessing/RenderPass.js';
 import { UnrealBloomPass } from 'three/addons/postprocessing/UnrealBloomPass.js';
 import CCapture from 'ccapture.js-npmfixed';
 import { createTriangleSpheres, createOrbitingSpheres } from './geometry.js';
+import backgroundImage from './assets/background.jpg';
 
 // Video recording settings
 const RECORD_VIDEO = false; // Set to true to start recording
@@ -32,7 +33,7 @@ const scene = new THREE.Scene();
 
 // Load sky texture on a flat plane background
 const textureLoader = new THREE.TextureLoader();
-textureLoader.load('/src/assets/background.jpg', (texture) => {
+textureLoader.load(backgroundImage, (texture) => {
   // Create a large plane for the background
   const aspectRatio = texture.image.width / texture.image.height;
   const planeHeight = 300;
